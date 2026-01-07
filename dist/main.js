@@ -10,8 +10,8 @@ function handleClick() {
   //   button
   button.classList.toggle("bg-dark-blue");
   button.classList.toggle("bg-grayish-blue-200");
-  button.classList.toggle("bottom-6");
-  button.classList.toggle("bottom-8");
+  // button.classList.toggle("bottom-6");
+  // button.classList.toggle("bottom-8");
 
   // share icon
   shareIcon.classList.toggle("text-white");

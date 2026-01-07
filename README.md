@@ -17,7 +17,7 @@ Users should be able to:
 
 ### Link
 
-Live Site URL: [Article Preview Component](https://nazeeha-kb.github.io/article-preview-component/)
+Live Site URL: [Article Preview Component](https://article-preview-component-sandy-mu.vercel.app/)
 
 ## My process
 
